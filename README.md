@@ -1,5 +1,3 @@
-# PhoneRegistration
-
 # 📱 Phone Registration – .NET 8
 
 A clean, modular sample project built with **ASP.NET Core (.NET 8)** for registering phone numbers, designed as a technical recruitment task.
@@ -166,5 +164,3 @@ Logging providers can easily be extended to write to:
 
 **Amir Asefi**
 Backend Developer (.NET / Clean Architecture)
-
-بسازم 👌
