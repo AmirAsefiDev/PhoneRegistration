@@ -130,7 +130,6 @@ Logging providers can easily be extended to write to:
 
 * File
 * Seq
-* Elasticsearch
 
 ---
 
