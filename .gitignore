@@ -1,4 +1,4 @@
-﻿# Created by https://www.toptal.com/developers/gitignore/api/aspnetcore
+﻿﻿# Created by https://www.toptal.com/developers/gitignore/api/aspnetcore
 # Edit at https://www.toptal.com/developers/gitignore?templates=aspnetcore
 
 ### ASPNETCore ###
@@ -36,18 +36,8 @@ logs/
 
 bin/
 obj/
-ERP.WebApi/bin/
-ERP.WebApi/obj/
-#ERP.Persistence/bin/
-#ERP.Persistence/obj/
-#ERP.Infrastructure/bin/
-#ERP.Infrastructure/obj/
-#ERP.Domain/bin/
-#ERP.Domain/obj/
-#ERP.Application/bin/
-#ERP.Application/obj/
-#ERP.Common/bin/
-#ERP.Common/obj/
+PhoneRegistration.WebApi/bin/
+PhoneRegistration.WebApi/obj/
 
 *.dll
 *.pdb
